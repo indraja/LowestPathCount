@@ -34,7 +34,6 @@
                 android:background="@drawable/back"
                 android:layout_below="@id/select_label"
                 android:maxLines="10"
-                android:inputType="number"
                 android:minLines="1" />
 
             <TextView
